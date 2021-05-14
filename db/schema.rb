@@ -10,13 +10,23 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_05_03_201154) do
+ActiveRecord::Schema.define(version: 2021_05_14_173951) do
 
   create_table "hybrids", force: :cascade do |t|
     t.string "name"
     t.string "species"
     t.string "origin"
     t.string "personality"
+    t.string "image"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "robots", force: :cascade do |t|
+    t.string "name"
+    t.string "model"
+    t.string "manufacturer"
+    t.string "purpose"
     t.string "image"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false

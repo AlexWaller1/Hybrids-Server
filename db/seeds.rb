@@ -9,5 +9,8 @@
 Hybrid.create(name: 'Cornelius', species: 'Tree Hybrid', origin: 'Randall Park Mall',
 personality: 'Introspective and Curious', image: 'https://cdna.artstation.com/p/assets/images/images/036/648/396/large/alex-waller-hybrids-40.jpg?1618246538')
 
+Robot.create(name: 'Mike', model: 'LB-103', manufacturer: 'Antibi Incorporated', purpose: 'Manual Labor',
+image: 'https://cdnb.artstation.com/p/assets/images/images/036/648/525/large/alex-waller-hybrids-43.jpg?1618246747')
+
 # seeds.rb great for testing out data
 
