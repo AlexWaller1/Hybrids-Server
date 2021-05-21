@@ -1,0 +1,2 @@
+class Minimart < ApplicationRecord
+end

@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :minimarts
   resources :mimimarts
   # get 'users/create'
   resources :robots
