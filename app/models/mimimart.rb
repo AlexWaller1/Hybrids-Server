@@ -1,0 +1,2 @@
+class Mimimart < ApplicationRecord
+end

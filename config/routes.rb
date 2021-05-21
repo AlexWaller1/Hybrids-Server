@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :mimimarts
   # get 'users/create'
   resources :robots
   resources :hybrids
