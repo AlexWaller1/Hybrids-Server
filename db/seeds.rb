@@ -20,6 +20,7 @@ Minimart.create(name: 'Sinclair of Hardin', address: '1424 N Crawford Ave', soda
     description: 'Great soda selection, wide variety of beef jerky, and an exceptional popcorn machine',
     state: 'Montana', image: 'https://farm5.staticflickr.com/4207/34980525513_da503553d8_o.jpg')
     
+Minimart.create(name: 'Test')
 
 # seeds.rb great for testing out data
 
