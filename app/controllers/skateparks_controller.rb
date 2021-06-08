@@ -46,6 +46,6 @@ class SkateparksController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def skatepark_params
-      params.require(:skatepark).permit(:name, :location, :fetures, :image)
+      params.require(:skatepark).permit(:name, :location, :features, :image)
     end
 end

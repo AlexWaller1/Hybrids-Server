@@ -22,8 +22,8 @@ Minimart.create(name: 'Sinclair of Hardin', address: '1424 N Crawford Ave', soda
     
 Minimart.create(name: 'Test')
 
-Skatepark.create(name: 'Mitchell Skate Hangar', location: 'Mitchell, South Dakota', fetures: 'Great Ramps',
-image: 'https://1tlmo92ipsnm1fchmn35l7xz-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/by-amuricaphoto-1024x1024.jpg' )
+Skatepark.create(name: 'Mitchell Skate Hangar', location: 'Mitchell, South Dakota', features: 'Great Ramps',
+    image: 'https://1tlmo92ipsnm1fchmn35l7xz-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/by-amuricaphoto-1024x1024.jpg' )
 
 # seeds.rb great for testing out data
 
