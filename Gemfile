@@ -40,4 +40,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # adding jwt gem for JWT Auth Token
+# always first step creating a JWT token.
 gem 'jwt'
+
+gem 'active_model_serializers'
