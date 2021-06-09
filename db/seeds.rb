@@ -25,5 +25,8 @@ Minimart.create(name: 'Test')
 Skatepark.create(name: 'Mitchell Skate Hangar', location: 'Mitchell, South Dakota', features: 'Great Ramps',
     image: 'https://1tlmo92ipsnm1fchmn35l7xz-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/by-amuricaphoto-1024x1024.jpg' )
 
+City.create(name: 'Green Bay', population: '104,578', state: 'Wisconsin', country: 'United States',
+image: 'https://www.mcw.edu/departments/human-resources/-/media/6F49B87BC612426AA95A4E41764079AE.ashx?anchor=middlecenter&scale=both&mode=crop',
+report: 'Green Bay has so far been fairly resilient to our presence, much to our dissatisfaction')
 # seeds.rb great for testing out data
 
