@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :motorhomes
   resources :cities
   resources :skateparks
   resources :minimarts

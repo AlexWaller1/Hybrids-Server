@@ -28,5 +28,7 @@ Skatepark.create(name: 'Mitchell Skate Hangar', location: 'Mitchell, South Dakot
 City.create(name: 'Green Bay', population: '104,578', state: 'Wisconsin', country: 'United States',
 image: 'https://www.mcw.edu/departments/human-resources/-/media/6F49B87BC612426AA95A4E41764079AE.ashx?anchor=middlecenter&scale=both&mode=crop',
 report: 'Green Bay has so far been fairly resilient to our presence, much to our dissatisfaction')
+
+City.create(name: 'test')
 # seeds.rb great for testing out data
 

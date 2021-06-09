@@ -1,0 +1,2 @@
+class Motorhome < ApplicationRecord
+end
