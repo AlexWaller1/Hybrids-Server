@@ -30,5 +30,8 @@ image: 'https://www.mcw.edu/departments/human-resources/-/media/6F49B87BC612426A
 report: 'Green Bay has so far been fairly resilient to our presence, much to our dissatisfaction')
 
 City.create(name: 'test')
+
+Motorhome.create(name: 'The Spruce', model: 'St. Xavier', mileage: '2 million', color: 'white with green trim', 
+image: 'https://cdnb.artstation.com/p/assets/images/images/033/353/765/large/alex-waller-hybridspage17.jpg?1609296432')
 # seeds.rb great for testing out data
 
