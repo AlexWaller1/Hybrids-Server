@@ -1,0 +1,2 @@
+class Skatebaorder < ApplicationRecord
+end

@@ -34,6 +34,8 @@ City.create(name: 'test')
 Motorhome.create(name: 'The Spruce', model: 'St. Xavier', mileage: '2 million', color: 'white with green trim', 
 image: 'https://cdnb.artstation.com/p/assets/images/images/033/353/765/large/alex-waller-hybridspage17.jpg?1609296432')
 
-Motorhome.create(name: 'Test')
+Motorhome.create(name: 'Test', description: 'Awesome RV!!!')
 # seeds.rb great for testing out data
+
+Skatepark.create(features: 'Great Half Pipe')
 
