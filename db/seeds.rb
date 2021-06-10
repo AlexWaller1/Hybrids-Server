@@ -39,3 +39,7 @@ Motorhome.create(name: 'Test', description: 'Awesome RV!!!')
 
 Skatepark.create(features: 'Great Half Pipe')
 
+Skateboarder.create(name: 'KB', hometown: 'Venice Beach, California', style: 'High Flyer',
+biography: 'Raised in Venice Beach. Took off to skate all around the country with his friends
+at 16 years old.')
+
