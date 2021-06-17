@@ -1,3 +1,3 @@
 class MotorhomeSerializer < ActiveModel::Serializer
-  attributes :id, :model, :year, :mileage, :color, :image
+  attributes :id, :name, :model, :year, :mileage, :color, :image
 end
